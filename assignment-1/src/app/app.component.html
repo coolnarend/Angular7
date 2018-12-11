@@ -1,0 +1,12 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h3>Assignment <em>(practicing databinding)</em></h3>
+      <hr>
+      <label>Username :</label>
+      <input type="text" class="form-control" [(ngModel)]="username" />
+      <p>{{username}}</p>
+      <button class="btn btn-primary" [disabled]="userNameStatus()" (click)="showUserName()">Show name</button>
+    </div>
+  </div>
+</div>
