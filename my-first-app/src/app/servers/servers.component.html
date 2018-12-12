@@ -17,7 +17,6 @@
   <p>No Server was created.</p>
 </ng-template>
 <ul>
-  <li><app-server></app-server></li>
-  <li><app-server></app-server></li>
+  <li><app-server *ngFor="let server of servers"></app-server></li>
 </ul>
 

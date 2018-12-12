@@ -1,0 +1,9 @@
+.online {
+    border: 1px solid green;
+}
+.offline {
+    border: 1px solid red;
+}
+p {
+    padding: 5px;
+}
