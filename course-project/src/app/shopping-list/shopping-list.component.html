@@ -1,0 +1,13 @@
+<hr>
+<br>
+<div class="row">
+  <div class="col-xs-10">
+    <app-shopping-edit></app-shopping-edit>
+    <hr>
+    <ul class="list-group">
+      <li class="list-group-item" *ngFor="let ingredient of ingredients" >
+        {{ingredient.name}} : Rs. {{ingredient.amount}}
+      </li>
+    </ul>
+  </div>
+</div>

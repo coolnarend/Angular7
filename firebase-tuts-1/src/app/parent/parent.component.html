@@ -1,0 +1,16 @@
+<p>
+  parent works!
+</p>
+<!-- child to parent -->
+<p>Message from Child: {{pMessage2}}</p>
+
+<!-- child to parent via viewChild, AfterViewInit -->
+<p>Message from Child: {{pMessage3}}</p>
+
+<!-- message from a shared service -->
+<p class='lead'>Message from Shared Service: {{pMessage4}}</p>
+
+<!-- parent to child: [cMessage]='pMessage' -->
+<!-- child to parent: (messageEvent)='recieveMessage($event)' -->
+<app-child [cMessage]='pMessage' (messageEvent)='recieveMessage($event)'></app-child>
+

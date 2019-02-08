@@ -1,0 +1,13 @@
+<div class="container">
+  <div class="col-xs-12">
+    <button class="btn btn-primary" (click)="onChange()">Display Details</button>
+    <span *ngIf="viewPassword">Secret Password = tuna</span>
+    <ul>
+      <li *ngFor="let count of viewCount; let i = index" 
+          [ngStyle]="{'backgroundColor': i >= 4 ? 'blue' : 'transparent'}"
+          [ngClass]="{'text-color' : i >= 4}">
+            {{count}}
+      </li>
+    </ul>
+  </div>
+</div>

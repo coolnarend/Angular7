@@ -1,0 +1,20 @@
+.container {
+    padding-top: 15px;
+}
+.text-color {
+    color: white;
+}
+span {
+    margin: 0 5px;
+}
+ul, p, li {
+    margin: 5px 0;
+    padding: 0;
+}
+li {
+    list-style-type: none;
+    padding: 15px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 5px;
+}

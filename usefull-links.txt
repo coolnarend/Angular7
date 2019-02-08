@@ -1,0 +1,30 @@
+Angular 2 Services Tutorial - Understanding & Creating Them
+https://coursetro.com/posts/code/20/Angular-2-Services-Tutorial---Understanding-&-Creating-Them
+--------------
+Angular 2 - From Theory To Practice - pdf book
+https://andrukonis.com/wp-content/uploads/2017/04/angular-2-from-theory-to-practice-v1.0.1.pdf
+--------------
+NgNonBindable - Directive
+https://codecraft.tv/courses/angular/built-in-directives/ngnonbindable/
+--------------
+How a webpage is loaded and displayed
+https://varvy.com/pagespeed/display.html
+--------------
+Critical rendering path
+https://varvy.com/pagespeed/critical-render-path.html
+--------------
+Browser Life Cycle
+https://dzone.com/articles/browser-life-cycle
+--------------
+Page lifecycle: DOMContentLoaded, load, beforeunload, unload
+https://javascript.info/onload-ondomcontentloaded
+--------------
+48 answers on StackOverflow to the most popular Angular questions
+https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0
+--------------
+Ang tuts:
+https://medium.com/codingthesmartway-com-blog/search?q=angular
+--------------
+Ang Interview QA
+https://medium.com/@balramchavan/angular-2-4-5-and-6-interview-questions-set-4-7ab351d4488b
+--------------

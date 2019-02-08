@@ -1,0 +1,11 @@
+<!-- parent to child -->
+<p>
+  child works!
+</p>
+<p>Message from Parent: {{cMessage}}</p>
+
+<!-- message from a shared service -->
+<p class='lead'>Message from Shared Service: {{cMessage4}}</p>
+
+<!-- child to parent -->
+<button class="btn btn-default" (click)='sendMessage()'>Send message to Parent</button>
