@@ -1,0 +1,10 @@
+<h5>{{ server.name }}</h5>
+<p>Server status is {{ server.status }}</p>
+<!--
+<a [routerLink]="['/servers', server.id, 'edit']" (click)="onEdit()">
+  Edit Server
+</a> -->
+
+<button class="btn btn-default" (click)="onEdit()">
+  Edit Server
+</button>

@@ -1,0 +1,6 @@
+Communication: 3/5
+HTML : 2.5/5
+CSS : 3/5
+JS : 3.5/5
+Angular : 3.5/5
+Bootstrap : 2/5

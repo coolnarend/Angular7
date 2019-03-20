@@ -1,0 +1,21 @@
+Closures to Extend Variable Scope
+
+JavaScript Variable Scope and Hoisting
+
+JavaScript’s Apply, Call, and Bind Methods 
+
+Object Oriented JavaScript (OOP in JavaScript)
+
+how to empty an array.. 
+
+closures and disadvantahes
+
+inheritance in js
+
+what is the concepts of "functions and objects" & how does this affect variable scope? 
+
+what is the difference in .call() and .apply()
+
+can you explain how inheritance works in js?
+
+write a script using jQuery that reads json data from a url and outputs it to the console.

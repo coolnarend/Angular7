@@ -1,0 +1,83 @@
+function foo() {
+return 5
+}
+
+let myVar = foo;
+
+---
+
+function foo1 (){
+return {
+bar: "hello"
+};
+}
+function foo2 (){
+return {
+bar: "hello"
+};
+}
+
+---
+
+In HTML,, what is the value of position attribute of <progress> tag if the value is not defined?
+
+---
+
+With which attribute you can;t use the placeholder attribute?
+
+----
+
+div {
+border: 2px solid;
+resize: horizontal;
+overflow: auto:
+}
+
+----
+
+in HTML5, what is the correct way to show "controls" of a video?
+
+---
+
+on clik image download
+
+----
+
+<p>si</p>
+<p>lkji</p>
+
+---
+
+rolling string
+
+---
+
+Merge Strings
+
+---
+
+Missing Stock Prices
+
+---
+
+js data types
+
+js closures
+
+hide element in js
+
+difference bet doc.onload & window .onload
+
+media query break points
+
+bootstrap version
+
+what is RWD ?
+
+slide in and out side menu using jquery
+
+js scope
+js variabes
+function hoisting
+js event bubbling
+

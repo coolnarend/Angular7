@@ -1,0 +1,57 @@
+//window object
+
+//document object
+
+//center aligning div in css
+
+BEM in css
+
+Object oriented CSS
+
+css3
+
+why html5
+
+session storage
+
+scope in angular
+
+root scope in agular
+
+apis in angular
+
+can we have multiple ng-app in one page
+
+custom directives in angular
+
+why angular?
+
+object oriented js
+
+jquery
+
+tool for repository management
+
+how to empty an array.. 
+
+closures and disadvantahes
+
+inhetitance in js
+
+what is the concepts of "functions and objects" & how does this affect variable scope? 
+
+what is the difference in .call() and .apply()
+
+can you explain how inheritance works in js?
+
+
+digest cycle
+
+providers
+
+angularjs events and additional js events - $apply $collection, $scopes in angular, 
+
+
+https://www.youtube.com/watch?v=BLzNCkPn3ao
+
+https://www.youtube.com/watch?v=P4JnEqlnLnE

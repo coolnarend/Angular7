@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "firstname": "Mary",
+      "lastname": "Jones",
+      "email": "mary@mail.com",
+      "phone": "8787787840",
+      "status": "inactive",
+      "id": 3
+    },
+    {
+      "firstname": "Peter",
+      "lastname": "Parker",
+      "email": "pet@mail.com",
+      "phone": "8080808080",
+      "status": "active",
+      "id": 4
+    },
+    {
+      "firstname": "Vanshika",
+      "lastname": "Talreja",
+      "email": "vanshika@mail.com",
+      "phone": "8080505454",
+      "status": "active",
+      "id": 5
+    },
+    {
+      "firstname": "Tom ",
+      "lastname": "Halt",
+      "email": "tom@mil.com",
+      "phone": "9585658545",
+      "status": "active",
+      "id": 6
+    },
+    {
+      "firstname": "Yog",
+      "lastname": "Peter",
+      "email": "yog.pawar18@gmail.com",
+      "phone": "9256585452",
+      "status": "inactive",
+      "id": 7
+    }
+  ]
+}

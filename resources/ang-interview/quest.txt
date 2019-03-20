@@ -1,0 +1,16 @@
+identfy screen resolution
+
+service or factoris, when to use?
+
+alias for scope in conroller?
+
+Xpath
+
+Ajax
+
+XHR
+
+load to data in table using ajax 
+
+
+pre and post linking in angularja

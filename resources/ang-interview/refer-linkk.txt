@@ -1,0 +1,5 @@
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+
+http://www.javascriptkata.com/2007/04/11/a-common-problem-with-the-powerful-javascript-closures/	
+
+http://www.developphp.com/lib/JavaScript/Object

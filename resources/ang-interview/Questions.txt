@@ -1,0 +1,23 @@
+Person information
+
+1. List of people
+2. Department list
+2.1 Department category 1
+2.1.1 List of people under category 1
+2.2 Department category 2
+2.2.1 List of people under category 2
+2.3 Department category 3
+2.3.1 List of people under category 3
+
+-How do you define Custom Pipe to sort the data of an array
+-Jasmine testing
+-Var, Let, Const
+-Display properties of CSS (block, none, inline, inline-block)
+-difference between == and ===
+-Difference between Observables and Promises
+-Can we repeat the method in JavaScript?
+-What was the last difficult situation you faced technically?
+-Have you worked in gulp or grunt?
+-How do you write css for a print age?
+-Override a css of a third party in angular 4
+Ans: https://stackoverflow.com/questions/40178041/overriding-the-encapsulated-css-of-external-component 

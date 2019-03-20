@@ -1,0 +1,29 @@
+What are the Components of Angular 2
+
+
+
+What is Selector in Angular 2
+What change detection strategy you apply in Angular? 
+
+How would you enable the flow of Data between components? 
+
+In Angular 2
+How would you migrate Data between controllers? 
+
+How the change detection take place? 
+Case Study
+there 1 Component in an UI 
+rest fields are drop down, data etc. 
+if changes made in one component will the change reflect in others? 
+Difference between components of angular 1.0 and 2.0
+You have to make a Get request from AJAX. How would you do it? 
+What is a difference between call back change and promise? 
+Wht is benefitt o f promise? 
+In RX JS lib use - how do you use get request?
+You have arraay, in a drop down the odd values should be red, or divisible by 3 then show in red. How would you use NG Class in above?
+
+How you use directive? 
+What is shadow DOM? 
+app has 2 components for dif
+
+Have you used Bootstrap UI in CSS. 

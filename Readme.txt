@@ -36,11 +36,52 @@
 			- *What happens behind the scenes on Structural Directive
 			- Building a Strcutural Directive
 			- Understanding ngSwitch
-6. Section-8 	: Course Project :
+8. Section-8 	: Course Project :
 			- Building and Using a Dropdown Directive
-
-
-
+9. Section-9 	: Services and Dependency Injection
+			- Module Introduction
+			- Why would you Need Services?
+			- Creating a Logging Service
+			- Injecting the Logging Service into Components
+			- Creating a Data Service
+			- Understanding the Hierarchical Injector
+			- How many Instances of Service Should it be?
+			- Injecting Services into Services
+			- Using Services for Cross-Component Communication
+			- Using Services for Cross-Component Communication
+			- Assignment
+			- Services in Angular 6+ - Doc
+10. Section-10 	: Course Project - Services & Dependency Injection
+			- Introduction
+			- Setting Up Services
+			- Managing Recipe in a Recipe Service
+			- Using a Service for Cross-Component Communication
+			- Adding the Shopping List Service
+			- Using Service for Pushing from A to B
+			- Adding Ingredients to Recipes
+			- Passing Ingredients from Recipes to the Shopping List (via a Service)
+11. Section-11 	: Changing Pages with Routing
+			- 114: Module Introduction
+			- 115: Why do we need a Router?
+			- 116: Understanding the Example Project
+			- 117: Setting Up and Loading Routes
+			- 118: Navigating with Router Links
+			- 119: Understanding Navigation Paths
+			- 120: Styling Active Router Links
+			- 121: Navigating Programmatically
+			- 122: Using Relative Pathns in Programmatic Navigation
+			- 123: Passing Parameters to Routes
+			- 124: Fetching Route Parameters
+			- 125: Fetching Route Parameters Reactively
+				(IMP: Observables are a feature added by some other third party package not by Angular but heavily used by Angular which allow you to easily work with asynchronous tasks. Asynchronoues tasks here means the data of selected property might change in the future if user performs some action. But we don't know When that action will happen or we don't know if it will happen or how long would it take to happen. So therefore one cannot block his code and wait for that action to happen because there is a possibility that it might never happen. So an obervable is an easy way to subscribe to some event which might happen in the future to then execute some code when it happens without having to wait for it to happen.)
+			- 126: An Important Note about Route Observables
+			- 127: Passing Query Parameters and Fragments
+			- 128: Retreving Query Parameters and Fragments
+			- 129: Practicing and some common Gotchas
+			- 130: Setting Up Child (Nested) Routes
+			- 131: Using Query Params
+			- 132: Configuring the Handling of Query Parameters
+			- 133: Redirecting and Wild card Routes
 
 
 
